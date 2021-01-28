@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  That which does not kill us makes us stronger
 date:   2018-11-13 15:01:35 +0300
 image:  '/images/20.jpg'
